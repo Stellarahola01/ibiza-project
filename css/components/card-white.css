@@ -1,0 +1,8 @@
+.card-white {
+	padding: 10px;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 1px;
+	margin: 10px;
+	background-color: rgba(242, 242, 242, 0.5);
+}

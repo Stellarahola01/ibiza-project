@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Montserrat&display=swap');
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/card-white.css");
+@import url("components/card-2.css");
+@import url("components/card-3.css");
+@import url("components/card-4.css");
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	margin: 8px;
+	background-color: white;
+}
+
+h1 h2 {
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: 'lora', sans-serif;
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+}
